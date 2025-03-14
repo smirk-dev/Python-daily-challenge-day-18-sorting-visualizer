@@ -1,10 +1,7 @@
 # Python-daily-challenge-day-18-sorting-visualizer
-Always show details
 
-Copy
 # Creating the README.md file for Sorting Algorithm Visualizer
 
-readme_content = """\
 # Sorting Algorithm Visualizer 🎨📊  
 
 A **Sorting Algorithm Visualizer** built using **Pygame** to demonstrate the step-by-step execution of popular sorting algorithms with real-time graphical representation.  
